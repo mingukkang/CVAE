@@ -99,9 +99,9 @@ def Conditional_Variational_AutoEncoder(self, X, X_noised, Y, keep_prob):
 ## Reference Papers
 **1. https://arxiv.org/abs/1406.5298**
 
-**2. https://arxiv.org/abs/1606.05908**
+**2. https://arxiv.org/abs/1312.6114**
 
-**3. https://arxiv.org/abs/1312.6114**
+**3. https://arxiv.org/abs/1606.05908**
 
 ## References
 
