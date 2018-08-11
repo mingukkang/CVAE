@@ -135,7 +135,7 @@ python main.py --PARR True
 
 **3. https://arxiv.org/abs/1606.05908**
 
-## References
+## Reference 
 
 **1.https://github.com/hwalsuklee/tensorflow-mnist-VAE**
 
