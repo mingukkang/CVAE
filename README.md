@@ -103,14 +103,14 @@ python main.py --add_noise True
 
 <table align='center'>
 <tr align='center'>
+<td> Manifold with a condition of label 0 </td>
 <td> Manifold with a condition of label 1 </td>
-<td> Manifold with a condition of label 2 </td>
 <td> 2d MNIST Manifold </td>
 </tr>
 <tr>
-<td><img src = 'images/ori_input_images.png' height = '250px'>
-<td><img src = 'images/input_image_noised.png' height = '250px'>
-<td><img src = 'images/Manifold_canvas_75.png' height = '250px'>
+<td><img src = 'images/labels0.png' height = '250px'>
+<td><img src = 'images/labels1.png' height = '250px'>
+<td><img src = 'images/2D_latent_space.png' height = '250px'>
 </tr>
 </table>
 
