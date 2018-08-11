@@ -94,6 +94,3 @@ def Conditional_Variational_AutoEncoder(self, X, X_noised, Y, keep_prob):
 <td><img src = 'images/input_image_noised.png' height = '250px'>
 <td><img src = 'images/Manifold_canvas_75.png' height = '250px'>
 </tr>
- 
- 
- 1111
