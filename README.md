@@ -119,8 +119,10 @@ python main.py --add_noise True
 <table align='center'>
 <tr align='center'>
 <td> Conditional Gereration </td>
+<td> 0  1  2  3  4  5  6  7  8  9 </td>
 </tr>
 <tr>
+<td><img src =  height = '32px'>
 <td><img src = 'images/Cond_generation.png' height = '32px'>
 </tr>
 </table>
