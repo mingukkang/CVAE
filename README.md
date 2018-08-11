@@ -1,6 +1,6 @@
 ## Conditional Variaional AutoEncoder(CVAE)-Tensorflow
 
-**I Write the Tensorflow code for CVAE(M1)
+**I Write the Tensorflow code for CVAE(M1)**
 
 M1 is the Latent Discriminative Model
 
