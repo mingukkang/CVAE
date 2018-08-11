@@ -81,7 +81,10 @@ def Conditional_Variational_AutoEncoder(self, X, X_noised, Y, keep_prob):
 ```
 
 ## Result
-**1. Comparing the generated images with the original images(n_z = 20)**
+**1. Denoising and Restoring**
+```
+python main.py --add_noise True
+```
 
 <table align='center'>
 <tr align='center'>
@@ -96,6 +99,14 @@ def Conditional_Variational_AutoEncoder(self, X, X_noised, Y, keep_prob):
 </tr>
 </table>
 
+**2. Manifold Learning Result**
+```
+python main.py --n_z 2 --PMLR True
+```
+**3. Conditional Generation**
+```
+python main.py --PARR True
+```
 ## Reference Papers
 **1. https://arxiv.org/abs/1406.5298**
 
