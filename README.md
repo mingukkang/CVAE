@@ -118,15 +118,11 @@ python main.py --add_noise True
 
 <table align='center'>
 <tr align='center'>
-<td> Conditional Gereration </td>
-<td> 0  1  2  3  4  5  6  7  8  9 </td>
 </tr>
 <tr>
-<td><img src =  height = '32px'>
-<td><img src = 'images/Cond_generation.png' height = '32px'>
+<td><img src = 'images/Cond_Generation.png' height = '32px'>
 </tr>
 </table>
-![사진2](https://github.com/MINGUKKANG/CVAE/blob/master/images/Cond_generation.png)
 
 ## Reference Papers
 **1. https://arxiv.org/abs/1406.5298**
