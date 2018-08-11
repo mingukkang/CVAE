@@ -1,6 +1,7 @@
 ## Conditional Variaional AutoEncoder(CVAE)-Tensorflow
 
-**I Write the code of CVAE using the tensorflow**
+**I Write the Tensorflow code for CVAE(M1)
+M1 is the Latent Discriminative Model
 
 **This code has following features**
 1. when we train our model, I use 0.6 dropout rate.
@@ -17,7 +18,6 @@
 - Tensorflow-gpu version:  1.4.0rc2 
 
 - OpenCV 3.4.1
-
 
 ## Schematic of CVAE
 
