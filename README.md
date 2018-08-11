@@ -100,13 +100,40 @@ python main.py --add_noise True
 </table>
 
 **2. Manifold Learning Result**
-```
-python main.py --n_z 2 --PMLR True
-```
+
+![사진2]()
+
+<table align='center'>
+<tr align='center'>
+<td> MNIST manifold with a condition of label 1 </td>
+<td> MNIST manifold with a condition of label 2 </td>
+<td> 2d MNIST manifold </td>
+</tr>
+<tr>
+<td><img src = 'images/ori_input_images.png' height = '250px'>
+<td><img src = 'images/input_image_noised.png' height = '250px'>
+<td><img src = 'images/Manifold_canvas_75.png' height = '250px'>
+</tr>
+</table>
+
 **3. Conditional Generation**
 ```
 python main.py --PARR True
 ```
+
+<table align='center'>
+<tr align='center'>
+<td> Original Images </td>
+<td> Images denoised </td>
+<td> Images Restored via CVAE </td>
+</tr>
+<tr>
+<td><img src = 'images/ori_input_images.png' height = '250px'>
+<td><img src = 'images/input_image_noised.png' height = '250px'>
+<td><img src = 'images/Manifold_canvas_75.png' height = '250px'>
+</tr>
+</table>
+
 ## Reference Papers
 **1. https://arxiv.org/abs/1406.5298**
 
