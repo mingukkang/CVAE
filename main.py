@@ -118,7 +118,7 @@ if __name__ =="__main__":
         y_one_hot = np.reshape(y_one_hot, [-1, n_cls])
         PARR = sess.run(images_PARR, feed_dict = {latent: z_holder, Y: y_one_hot, keep_prob: 1.0})
         PARR = np.reshape(PARR, [-1, height, width, channel])
-        p_name = "PARR/manifold"
+        p_name = "PARR/Cond_generation"
         plot_manifold_canvas(PARR, 10, "MNIST", p_name)
 
     ## code for 2D scatter plot
