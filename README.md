@@ -100,7 +100,9 @@ python main.py --add_noise True
 </table>
 
 **2. Manifold Learning Result**
-
+```
+python main.py --n_z 2 --PMLR True
+```
 <table align='center'>
 <tr align='center'>
 <td> Manifold with a condition of  0 </td>
@@ -115,12 +117,14 @@ python main.py --add_noise True
 </table>
 
 **3. Conditional Generation**
-
+```
+python main.py --PARR True
+```
 <table align='center'>
 <tr align='center'>
 </tr>
 <tr>
-<td><img src = 'images/Cond_Generation.png' height = '64px'>
+<td><img src = 'images/Cond_Generation.png' height = '80px'>
 </tr>
 </table>
 
