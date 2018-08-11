@@ -108,9 +108,9 @@ python main.py --add_noise True
 <td> 2d MNIST Manifold </td>
 </tr>
 <tr>
-<td><img src = 'images/lab0.png' height = '250px'>
-<td><img src = 'images/lls1.png' height = '250px'>
-<td><img src = 'images/2Dtent_space.png' height = '250px'>
+<td><img src = 'images/label0.png' height = '250px'>
+<td><img src = 'images/label1.png' height = '250px'>
+<td><img src = 'images/2Dlatent_space.png' height = '250px'>
 </tr>
 </table>
 
