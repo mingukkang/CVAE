@@ -90,9 +90,9 @@ def Conditional_Variational_AutoEncoder(self, X, X_noised, Y, keep_prob):
 <td> Restored MNIST via CVAE </td>
 </tr>
 <tr>
-<td><img src = 'images/ori_input_images' height = '400px'>
-<td><img src = 'images/input_image_noised.png' height = '400px'>
-<td><img src = 'image/result3.JPG' height = '400px'>
+<td><img src = 'images/ori_input_images.png' height = '250px'>
+<td><img src = 'images/input_image_noised.png' height = '250px'>
+<td><img src = 'image/result3.JPG' height = '250px'>
 </tr>
 
 ## Reference Papers
