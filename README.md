@@ -120,7 +120,7 @@ python main.py --add_noise True
 <tr align='center'>
 </tr>
 <tr>
-<td><img src = 'images/Cond_Generation.png' height = '32px'>
+<td><img src = 'images/Cond_Generation.png' height = '64px'>
 </tr>
 </table>
 
