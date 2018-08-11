@@ -83,7 +83,6 @@ def Conditional_Variational_AutoEncoder(self, X, X_noised, Y, keep_prob):
 ## Result
 **1. Comparing the generated images with the original images(n_z = 20)**
 
-
 <table align='center'>
 <tr align='center'>
 <td> Original MNIST </td>
@@ -95,6 +94,7 @@ def Conditional_Variational_AutoEncoder(self, X, X_noised, Y, keep_prob):
 <td><img src = 'images/input_image_noised.png' height = '250px'>
 <td><img src = 'images/Manifold_canvas_75.png' height = '250px'>
 </tr>
+    
     
 ## Reference Papers
 **1. https://arxiv.org/abs/1406.5298**
