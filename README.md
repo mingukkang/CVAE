@@ -83,19 +83,17 @@ def Conditional_Variational_AutoEncoder(self, X, X_noised, Y, keep_prob):
 ## Result
 **1. Comparing the generated images with the original images(n_z = 20)**
 
-![사진5]()
-
-**2. Result, When n_z =2**
 <table align='center'>
 <tr align='center'>
-<td> Distribution of MNIST </td>
-<td> Manifold of MNIST </td>
+<td> Original MNIST </td>
+<td> Denoised MNIST </td>
+<td> Restored MNIST via CVAE </td>
 </tr>
 <tr>
-<td><img src = 'image/result2.JPG' height = '400px'>
+<td><img src = 'images/ori_input_images' height = '400px'>
+<td><img src = 'images/input_image_noised.png' height = '400px'>
 <td><img src = 'image/result3.JPG' height = '400px'>
 </tr>
-</table>
 
 ## Reference Papers
 **1. https://arxiv.org/abs/1406.5298**
