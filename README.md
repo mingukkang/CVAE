@@ -103,8 +103,8 @@ python main.py --add_noise True
 
 <table align='center'>
 <tr align='center'>
-<td> MNIST manifold with a condition of label 1 </td>
-<td> MNIST manifold with a condition of label 2 </td>
+<td> Manifold with a condition of label 1 </td>
+<td> Manifold with a condition of label 2 </td>
 <td> 2d MNIST manifold </td>
 </tr>
 <tr>
