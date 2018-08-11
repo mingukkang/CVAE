@@ -108,15 +108,15 @@ python main.py --add_noise True
 <td> 2d MNIST Manifold </td>
 </tr>
 <tr>
-<td><img src = 'images/label0.png' height = '250px'>
-<td><img src = 'images/label1.png' height = '250px'>
-<td><img src = 'images/2Dlatent_space.png' height = '250px'>
+<td><img src = 'images/' height = '250px'>
+<td><img src = 'images/' height = '250px'>
+<td><img src = 'images/' height = '250px'>
 </tr>
 </table>
 
 **3. Conditional Generation**
 
-![사진2]()
+![사진2](https://github.com/MINGUKKANG/CVAE/blob/master/images/Cond_generation.png)
 
 ## Reference Papers
 **1. https://arxiv.org/abs/1406.5298**
