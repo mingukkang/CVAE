@@ -11,7 +11,7 @@ if __name__ =="__main__":
     flag = tf.app.flags
     FLAGS = flag.FLAGS
     flag.DEFINE_float("learning_rate", 0.0001, "learning rate for training")
-    flag.DEFINE_integer("n_epoch", 7, "number of Epoch")
+    flag.DEFINE_integer("n_epoch", 100, "number of Epoch")
     flag.DEFINE_integer("n_z", 2, "Dimension of latent variables")
     flag.DEFINE_integer("keep_prob", 0.6, "Dropout rate")
     flag.DEFINE_float("decay_rate", 0.98,"learning rate decay rate")
